@@ -1,1 +1,1 @@
-# New-C38-project
+# Virtual-Pet-2.0
